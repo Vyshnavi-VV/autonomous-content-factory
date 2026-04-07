@@ -36,12 +36,12 @@ streamlit run app.py
 
 ## ⚙️ Tech Stack
 - 🧑‍💻 Programming Languages
-    Python
+   :  Python
 - 🧰 Frameworks & Libraries
-    Streamlit - UI + Interaction
+   : Streamlit - UI + Interaction, 
     Custom Multi-Agent System
 - 🔌 APIs & Tools
-    Tinyllama (Local LLM)
+   : Tinyllama (Local LLM)
 
 ## 📁 Project Structure
 ```
